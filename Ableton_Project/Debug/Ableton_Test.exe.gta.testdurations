@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>E:\Ableton_Project\Ableton_Project\Debug\Ableton_Test.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="ProcessTest.Workflow_In_Sheet" Duration="1" />
+    <TestDuration Test="ProcessTest.Starting_Modules_Split" Duration="3" />
+    <TestDuration Test="ProcessTest.Middle_Modules_Split" Duration="6" />
+    <TestDuration Test="ProcessTest.Output_Modules_Split" Duration="4" />
+  </TestDurations>
+</GtaTestDurations>

@@ -1,0 +1,7 @@
+﻿D:\Visual Studio\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(1879,5): warning : The referenced project '..\Atlatec_Project\Atlatec_Project.vcxproj' does not exist.
+  test.cpp
+  gmock-all.cc
+  gtest-all.cc
+  Generating Code...
+Ableton_Project.lib(Process.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Ableton_Test.vcxproj -> E:\Ableton_Project\Ableton_Project\Debug\Ableton_Test.exe
